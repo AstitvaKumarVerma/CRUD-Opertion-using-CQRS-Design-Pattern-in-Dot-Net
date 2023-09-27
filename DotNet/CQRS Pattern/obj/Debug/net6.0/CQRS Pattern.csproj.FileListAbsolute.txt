@@ -1,0 +1,67 @@
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\bin\Debug\net6.0\appsettings.Development.json
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\bin\Debug\net6.0\appsettings.json
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\bin\Debug\net6.0\CQRS Pattern.exe
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\bin\Debug\net6.0\CQRS Pattern.deps.json
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\bin\Debug\net6.0\CQRS Pattern.runtimeconfig.json
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\bin\Debug\net6.0\CQRS Pattern.dll
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\bin\Debug\net6.0\CQRS Pattern.pdb
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\bin\Debug\net6.0\Humanizer.dll
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\bin\Debug\net6.0\MediatR.dll
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\obj\Debug\net6.0\CQRS Pattern.csproj.AssemblyReference.cache
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\obj\Debug\net6.0\CQRS Pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\obj\Debug\net6.0\CQRS Pattern.AssemblyInfoInputs.cache
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\obj\Debug\net6.0\CQRS Pattern.AssemblyInfo.cs
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\obj\Debug\net6.0\CQRS Pattern.csproj.CoreCompileInputs.cache
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\obj\Debug\net6.0\CQRS Pattern.MvcApplicationPartsAssemblyInfo.cs
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\obj\Debug\net6.0\CQRS Pattern.MvcApplicationPartsAssemblyInfo.cache
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\obj\Debug\net6.0\staticwebassets\msbuild.CQRS Pattern.Microsoft.AspNetCore.StaticWebAssets.props
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\obj\Debug\net6.0\staticwebassets\msbuild.build.CQRS Pattern.props
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CQRS Pattern.props
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CQRS Pattern.props
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\obj\Debug\net6.0\staticwebassets.pack.json
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\obj\Debug\net6.0\staticwebassets.build.json
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\obj\Debug\net6.0\staticwebassets.development.json
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\obj\Debug\net6.0\scopedcss\bundle\CQRS Pattern.styles.css
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\obj\Debug\net6.0\CQRS Pattern.csproj.CopyComplete
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\obj\Debug\net6.0\CQRS Pattern.dll
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\obj\Debug\net6.0\refint\CQRS Pattern.dll
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\obj\Debug\net6.0\CQRS Pattern.pdb
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\obj\Debug\net6.0\CQRS Pattern.genruntimeconfig.cache
+D:\AstitvaKumarVerma\Dot Net\CQRS Pattern\CQRS Pattern\obj\Debug\net6.0\ref\CQRS Pattern.dll
