@@ -1,0 +1,6 @@
+{
+  "empName": "Parveen",
+  "empEmail": "praveen@gmail.com",
+  "empDob": "2000-05-14T11:55:29.588Z",
+  "empAddress": "Prayagraj"
+}
